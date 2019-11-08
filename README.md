@@ -1,7 +1,6 @@
 # MicroPosts Project 
 Update & edit posts
 
-
 ## Demo video 
 To see a demo video, click the screenshot below.
 
@@ -11,6 +10,7 @@ To see a demo video, click the screenshot below.
 
 ## Related class
 Udemy: Modern javascript from the beginning
+
 
 <hr>
 
@@ -44,14 +44,3 @@ Compile and build
 ```sh
 $ npm run build
 ```
-
-## More Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### License
-
-This project is licensed under the MIT License
